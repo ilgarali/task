@@ -5,5 +5,6 @@
 5. configure database 
 6. php artisan migrate --seed
 7. php artisan key:generate
-8. php artisan serve
-9. php artisan test
+8. php artisan storage:link
+9. php artisan serve
+10. php artisan test
